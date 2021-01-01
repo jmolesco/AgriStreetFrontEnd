@@ -1,0 +1,30 @@
+.card-img-products {
+    display: block;
+    width: 100px;
+    height: 70px;
+}
+.heading{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.product-btn{
+    font-size: 11.75px;
+}
+
+.text-green-500 {
+    font-size: 1.25rem;
+    color: rgba(16, 185, 129);
+}
+
+/* .text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.font-semibold {
+    font-weight: 600;
+} */
+
+.prize{
+    font-size: 1rem;
+}

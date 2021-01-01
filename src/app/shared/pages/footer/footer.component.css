@@ -1,0 +1,30 @@
+.border-t-2 {
+    border-top-width: 2px;
+}
+.border-green-500 {
+    border-color: rgba(16, 185, 129);
+}
+.text-green-500 {
+    --tw-text-opacity: 1;
+    color: rgba(16, 185, 129);
+}
+
+.text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.py-5 {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+
+.max-w-7xl {
+    max-width: 80rem;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+

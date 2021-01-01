@@ -1,0 +1,25 @@
+.border-bottom {
+    border-bottom: 1px solid #dee2e6!important;
+}
+.border-top {
+    border-top: 1px solid #dee2e6!important;
+}
+
+.btnCreate {
+    background-color: rgba(16, 185, 129);
+    color: white;
+}
+.btnCreate:hover {
+    background-color: #fdb813;
+    color: white;
+}
+
+
+.btnCheck:hover {
+    background-color: rgba(185, 28, 28);
+    color: white;
+}
+
+.prize{
+    color: #fdb813;
+}

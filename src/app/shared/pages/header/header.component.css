@@ -1,0 +1,8 @@
+.nav-item > a{
+    color:#40af49;
+    font-size: 14px;
+}
+
+.nav-item > a:hover{
+    color:#fdb813;
+}
